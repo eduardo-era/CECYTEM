@@ -1,0 +1,209 @@
+c:\users\luffy\documents\visual studio 2017\Projects\Proyecto 2\Proyecto 2\bin\Debug\Proyecto 2.exe
+c:\users\luffy\documents\visual studio 2017\Projects\Proyecto 2\Proyecto 2\bin\Debug\Proyecto 2.pdb
+c:\users\luffy\documents\visual studio 2017\Projects\Proyecto 2\Proyecto 2\obj\Debug\Proyecto 2.csprojResolveAssemblyReference.cache
+c:\users\luffy\documents\visual studio 2017\Projects\Proyecto 2\Proyecto 2\obj\Debug\Proyecto_2.Properties.Resources.resources
+c:\users\luffy\documents\visual studio 2017\Projects\Proyecto 2\Proyecto 2\obj\Debug\Proyecto 2.csproj.GenerateResource.Cache
+c:\users\luffy\documents\visual studio 2017\Projects\Proyecto 2\Proyecto 2\obj\Debug\Proyecto 2.exe
+c:\users\luffy\documents\visual studio 2017\Projects\Proyecto 2\Proyecto 2\obj\Debug\Proyecto 2.pdb
+C:\Users\luffy\documents\visual studio 2017\Projects\proyecto 2\Proyecto 2\obj\Debug\Proyecto_2.INICIO.resources
+C:\Users\luffy\documents\visual studio 2017\Projects\proyecto 2\Proyecto 2\obj\Debug\Proyecto_2.LOGIN.resources
+C:\Users\luffy\documents\visual studio 2017\Projects\proyecto 2\Proyecto 2\obj\Debug\Proyecto_2.SELECCIONMAESTRO.resources
+C:\Users\luffy\documents\visual studio 2017\Projects\proyecto 2\Proyecto 2\obj\Debug\Proyecto_2.BUSCAR.resources
+C:\Users\luffy\documents\visual studio 2017\Projects\proyecto 2\Proyecto 2\obj\Debug\Proyecto_2.VENTANASELECCION.resources
+C:\Users\luffy\documents\visual studio 2017\Projects\proyecto 2\Proyecto 2\obj\Debug\Proyecto_2.LLENARGRUPOS.resources
+C:\Users\luffy\documents\visual studio 2017\Projects\proyecto 2\Proyecto 2\obj\Debug\Proyecto_2.HORARIODOCENTES.resources
+E:\Proyecto 3\Proyecto 2\obj\Debug\Proyecto 2.exe
+E:\Proyecto 3\Proyecto 2\obj\Debug\Proyecto 2.pdb
+E:\Proyecto 3\Proyecto 2\bin\Debug\Proyecto 2.exe
+E:\Proyecto 3\Proyecto 2\bin\Debug\Proyecto 2.pdb
+E:\Proyecto 3\Proyecto 2\obj\Debug\Proyecto 2.csprojResolveAssemblyReference.cache
+E:\Proyecto 3\Proyecto 2\obj\Debug\Proyecto_2.BUSCAR.resources
+E:\Proyecto 3\Proyecto 2\obj\Debug\Proyecto_2.HORARIODOCENTES.resources
+E:\Proyecto 3\Proyecto 2\obj\Debug\Proyecto_2.INICIO.resources
+E:\Proyecto 3\Proyecto 2\obj\Debug\Proyecto_2.LLENARGRUPOS.resources
+E:\Proyecto 3\Proyecto 2\obj\Debug\Proyecto_2.LOGIN.resources
+E:\Proyecto 3\Proyecto 2\obj\Debug\Proyecto_2.SELECCIONMAESTRO.resources
+E:\Proyecto 3\Proyecto 2\obj\Debug\Proyecto_2.VENTANASELECCION.resources
+E:\Proyecto 3\Proyecto 2\obj\Debug\Proyecto_2.Properties.Resources.resources
+E:\Proyecto 3\Proyecto 2\obj\Debug\Proyecto 2.csproj.GenerateResource.Cache
+I:\Proyecto 3\Proyecto 2\bin\Debug\Proyecto 2.exe
+I:\Proyecto 3\Proyecto 2\bin\Debug\Proyecto 2.pdb
+I:\Proyecto 3\Proyecto 2\obj\Debug\Proyecto 2.csprojResolveAssemblyReference.cache
+I:\Proyecto 3\Proyecto 2\obj\Debug\Proyecto_2.BUSCAR.resources
+I:\Proyecto 3\Proyecto 2\obj\Debug\Proyecto_2.HORARIODOCENTES.resources
+I:\Proyecto 3\Proyecto 2\obj\Debug\Proyecto_2.INICIO.resources
+I:\Proyecto 3\Proyecto 2\obj\Debug\Proyecto_2.LLENARGRUPOS.resources
+I:\Proyecto 3\Proyecto 2\obj\Debug\Proyecto_2.LOGIN.resources
+I:\Proyecto 3\Proyecto 2\obj\Debug\Proyecto_2.SELECCIONMAESTRO.resources
+I:\Proyecto 3\Proyecto 2\obj\Debug\Proyecto_2.VENTANASELECCION.resources
+I:\Proyecto 3\Proyecto 2\obj\Debug\Proyecto_2.Properties.Resources.resources
+I:\Proyecto 3\Proyecto 2\obj\Debug\Proyecto 2.csproj.GenerateResource.Cache
+I:\Proyecto 3\Proyecto 2\obj\Debug\Proyecto 2.exe
+I:\Proyecto 3\Proyecto 2\obj\Debug\Proyecto 2.pdb
+C:\Users\luffy\Desktop\Proyecto 3\Proyecto 2\bin\Debug\Proyecto 2.exe
+C:\Users\luffy\Desktop\Proyecto 3\Proyecto 2\bin\Debug\Proyecto 2.pdb
+C:\Users\luffy\Desktop\Proyecto 3\Proyecto 2\obj\Debug\Proyecto 2.csprojResolveAssemblyReference.cache
+C:\Users\luffy\Desktop\Proyecto 3\Proyecto 2\obj\Debug\Proyecto_2.BUSCAR.resources
+C:\Users\luffy\Desktop\Proyecto 3\Proyecto 2\obj\Debug\Proyecto_2.HORARIODOCENTES.resources
+C:\Users\luffy\Desktop\Proyecto 3\Proyecto 2\obj\Debug\Proyecto_2.INICIO.resources
+C:\Users\luffy\Desktop\Proyecto 3\Proyecto 2\obj\Debug\Proyecto_2.LLENARGRUPOS.resources
+C:\Users\luffy\Desktop\Proyecto 3\Proyecto 2\obj\Debug\Proyecto_2.LOGIN.resources
+C:\Users\luffy\Desktop\Proyecto 3\Proyecto 2\obj\Debug\Proyecto_2.SELECCIONMAESTRO.resources
+C:\Users\luffy\Desktop\Proyecto 3\Proyecto 2\obj\Debug\Proyecto_2.VENTANASELECCION.resources
+C:\Users\luffy\Desktop\Proyecto 3\Proyecto 2\obj\Debug\Proyecto_2.Properties.Resources.resources
+C:\Users\luffy\Desktop\Proyecto 3\Proyecto 2\obj\Debug\Proyecto 2.csproj.GenerateResource.Cache
+C:\Users\luffy\Desktop\Proyecto 3\Proyecto 2\obj\Debug\Proyecto 2.exe
+C:\Users\luffy\Desktop\Proyecto 3\Proyecto 2\obj\Debug\Proyecto 2.pdb
+C:\Users\luffy\Desktop\Proyecto 3\Proyecto 2\bin\Debug\Proyecto 2.exe.config
+I:\Proyecto 3\Proyecto 2\bin\Debug\Proyecto 2.exe.config
+C:\Users\luffy\Desktop\Proyecto 3\Proyecto 2\obj\Debug\Proyecto_2.CONFIGURACION.resources
+C:\Users\Martin Rasgado\Desktop\Proyecto 4\Proyecto 2\bin\Debug\Proyecto 2.exe.config
+C:\Users\Martin Rasgado\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto 2.exe
+C:\Users\Martin Rasgado\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto 2.pdb
+C:\Users\Martin Rasgado\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto 2.csprojResolveAssemblyReference.cache
+C:\Users\Martin Rasgado\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.BUSCAR.resources
+C:\Users\Martin Rasgado\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGURACION.resources
+C:\Users\Martin Rasgado\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.HORARIODOCENTES.resources
+C:\Users\Martin Rasgado\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.INICIO.resources
+C:\Users\Martin Rasgado\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.LLENARGRUPOS.resources
+C:\Users\Martin Rasgado\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.LOGIN.resources
+C:\Users\Martin Rasgado\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.SELECCIONMAESTRO.resources
+C:\Users\Martin Rasgado\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.VENTANASELECCION.resources
+C:\Users\Martin Rasgado\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.Properties.Resources.resources
+C:\Users\Martin Rasgado\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto 2.csproj.GenerateResource.Cache
+C:\Users\Martin Rasgado\Desktop\Proyecto 4\Proyecto 2\bin\Debug\Proyecto 2.exe
+C:\Users\Martin Rasgado\Desktop\Proyecto 4\Proyecto 2\bin\Debug\Proyecto 2.pdb
+F:\Proyecto 4\Proyecto 2\bin\Debug\Proyecto 2.exe.config
+F:\Proyecto 4\Proyecto 2\bin\Debug\Proyecto 2.exe
+F:\Proyecto 4\Proyecto 2\bin\Debug\Proyecto 2.pdb
+F:\Proyecto 4\Proyecto 2\obj\Debug\Proyecto 2.csprojResolveAssemblyReference.cache
+F:\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.BUSCAR.resources
+F:\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGURACION.resources
+F:\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.HORARIODOCENTES.resources
+F:\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.INICIO.resources
+F:\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.LLENARGRUPOS.resources
+F:\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.LOGIN.resources
+F:\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.SELECCIONMAESTRO.resources
+F:\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.VENTANASELECCION.resources
+F:\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.Properties.Resources.resources
+F:\Proyecto 4\Proyecto 2\obj\Debug\Proyecto 2.csproj.GenerateResource.Cache
+F:\Proyecto 4\Proyecto 2\obj\Debug\Proyecto 2.csproj.CoreCompileInputs.cache
+F:\Proyecto 4\Proyecto 2\obj\Debug\Proyecto 2.exe
+F:\Proyecto 4\Proyecto 2\obj\Debug\Proyecto 2.pdb
+I:\Proyecto 4\Proyecto 2\bin\Debug\Proyecto 2.exe.config
+I:\Proyecto 4\Proyecto 2\bin\Debug\Proyecto 2.exe
+I:\Proyecto 4\Proyecto 2\bin\Debug\Proyecto 2.pdb
+I:\Proyecto 4\Proyecto 2\obj\Debug\Proyecto 2.csprojResolveAssemblyReference.cache
+I:\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.BUSCAR.resources
+I:\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGURACION.resources
+I:\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.HORARIODOCENTES.resources
+I:\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.INICIO.resources
+I:\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.LLENARGRUPOS.resources
+I:\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.LOGIN.resources
+I:\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.SELECCIONMAESTRO.resources
+I:\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.VENTANASELECCION.resources
+I:\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.Properties.Resources.resources
+I:\Proyecto 4\Proyecto 2\obj\Debug\Proyecto 2.csproj.GenerateResource.Cache
+I:\Proyecto 4\Proyecto 2\obj\Debug\Proyecto 2.exe
+I:\Proyecto 4\Proyecto 2\obj\Debug\Proyecto 2.pdb
+I:\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGHORA.resources
+C:\Users\luffy\Desktop\Proyecto 4\Proyecto 2\bin\Debug\Proyecto 2.exe.config
+C:\Users\luffy\Desktop\Proyecto 4\Proyecto 2\bin\Debug\Proyecto 2.exe
+C:\Users\luffy\Desktop\Proyecto 4\Proyecto 2\bin\Debug\Proyecto 2.pdb
+C:\Users\luffy\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto 2.csprojResolveAssemblyReference.cache
+C:\Users\luffy\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.BUSCAR.resources
+C:\Users\luffy\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGHORA.resources
+C:\Users\luffy\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGURACION.resources
+C:\Users\luffy\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.INICIO.resources
+C:\Users\luffy\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.LLENARGRUPOS.resources
+C:\Users\luffy\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.LOGIN.resources
+C:\Users\luffy\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.SELECCIONMAESTRO.resources
+C:\Users\luffy\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.VENTANASELECCION.resources
+C:\Users\luffy\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.Properties.Resources.resources
+C:\Users\luffy\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto 2.csproj.GenerateResource.Cache
+C:\Users\luffy\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto 2.exe
+C:\Users\luffy\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto 2.pdb
+C:\Users\luffy\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGRUPOS.resources
+C:\Users\luffy\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGSALONES.resources
+C:\Users\luffy\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGURAR_SEMESTRES.resources
+C:\Users\luffy\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGURARMATERIAS.resources
+C:\Users\luffy\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGDIAS.resources
+C:\Users\luffy\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGESPECIALIZACION.resources
+C:\Users\luffy\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGTURN.resources
+C:\Users\luffy\Downloads\Proyecto-4.2\Proyecto 4\Proyecto 2\bin\Debug\Proyecto 2.exe.config
+C:\Users\luffy\Downloads\Proyecto-4.2\Proyecto 4\Proyecto 2\bin\Debug\Proyecto 2.exe
+C:\Users\luffy\Downloads\Proyecto-4.2\Proyecto 4\Proyecto 2\bin\Debug\Proyecto 2.pdb
+C:\Users\luffy\Downloads\Proyecto-4.2\Proyecto 4\Proyecto 2\obj\Debug\Proyecto 2.csprojResolveAssemblyReference.cache
+C:\Users\luffy\Downloads\Proyecto-4.2\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.BUSCAR.resources
+C:\Users\luffy\Downloads\Proyecto-4.2\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGDIAS.resources
+C:\Users\luffy\Downloads\Proyecto-4.2\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGESPECIALIZACION.resources
+C:\Users\luffy\Downloads\Proyecto-4.2\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGHORA.resources
+C:\Users\luffy\Downloads\Proyecto-4.2\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGRUPOS.resources
+C:\Users\luffy\Downloads\Proyecto-4.2\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGSALONES.resources
+C:\Users\luffy\Downloads\Proyecto-4.2\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGTURN.resources
+C:\Users\luffy\Downloads\Proyecto-4.2\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGURACION.resources
+C:\Users\luffy\Downloads\Proyecto-4.2\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGURAR_SEMESTRES.resources
+C:\Users\luffy\Downloads\Proyecto-4.2\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGURARMATERIAS.resources
+C:\Users\luffy\Downloads\Proyecto-4.2\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.HORARIODOCENTES.resources
+C:\Users\luffy\Downloads\Proyecto-4.2\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.INICIO.resources
+C:\Users\luffy\Downloads\Proyecto-4.2\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.LLENARGRUPOS.resources
+C:\Users\luffy\Downloads\Proyecto-4.2\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.LOGIN.resources
+C:\Users\luffy\Downloads\Proyecto-4.2\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.SELECCIONMAESTRO.resources
+C:\Users\luffy\Downloads\Proyecto-4.2\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.VENTANASELECCION.resources
+C:\Users\luffy\Downloads\Proyecto-4.2\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.Properties.Resources.resources
+C:\Users\luffy\Downloads\Proyecto-4.2\Proyecto 4\Proyecto 2\obj\Debug\Proyecto 2.csproj.GenerateResource.Cache
+C:\Users\luffy\Downloads\Proyecto-4.2\Proyecto 4\Proyecto 2\obj\Debug\Proyecto 2.exe
+C:\Users\luffy\Downloads\Proyecto-4.2\Proyecto 4\Proyecto 2\obj\Debug\Proyecto 2.pdb
+E:\Proyecto-4.5\Proyecto 4\Proyecto 2\bin\Debug\Proyecto 2.exe.config
+E:\Proyecto-4.5\Proyecto 4\Proyecto 2\bin\Debug\Proyecto 2.exe
+E:\Proyecto-4.5\Proyecto 4\Proyecto 2\bin\Debug\Proyecto 2.pdb
+E:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto 2.csprojResolveAssemblyReference.cache
+E:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.BUSCAR.resources
+E:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGDIAS.resources
+E:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGESPECIALIZACION.resources
+E:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGHORA.resources
+E:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGRUPOS.resources
+E:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGSALONES.resources
+E:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGTURN.resources
+E:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGURACION.resources
+E:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGURAR_SEMESTRES.resources
+E:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGURARMATERIAS.resources
+E:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.INICIO.resources
+E:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.LLENARGRUPOS.resources
+E:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.LOGIN.resources
+E:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.SELECCIONMAESTRO.resources
+E:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.VENTANASELECCION.resources
+E:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.Properties.Resources.resources
+E:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto 2.csproj.GenerateResource.Cache
+E:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto 2.csproj.CoreCompileInputs.cache
+E:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto 2.exe
+E:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto 2.pdb
+E:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.configmaestros.resources
+I:\Proyecto-4.5\Proyecto 4\Proyecto 2\bin\Debug\Proyecto 2.exe.config
+I:\Proyecto-4.5\Proyecto 4\Proyecto 2\bin\Debug\Proyecto 2.exe
+I:\Proyecto-4.5\Proyecto 4\Proyecto 2\bin\Debug\Proyecto 2.pdb
+I:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto 2.csprojResolveAssemblyReference.cache
+I:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.BUSCAR.resources
+I:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGDIAS.resources
+I:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGESPECIALIZACION.resources
+I:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGHORA.resources
+I:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.configmaestros.resources
+I:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGRUPOS.resources
+I:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGSALONES.resources
+I:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGTURN.resources
+I:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGURACION.resources
+I:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGURAR_SEMESTRES.resources
+I:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGURARMATERIAS.resources
+I:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.INICIO.resources
+I:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.LLENARGRUPOS.resources
+I:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.LOGIN.resources
+I:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.SELECCIONMAESTRO.resources
+I:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.VENTANASELECCION.resources
+I:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.Properties.Resources.resources
+I:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto 2.csproj.GenerateResource.Cache
+I:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto 2.exe
+I:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto 2.pdb
+I:\Proyecto-4.5\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGSALONESESP.resources
+C:\Users\luffy\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.configmaestros.resources
+C:\Users\luffy\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGSALONESESP.resources
+C:\Users\luffy\Desktop\Proyecto 4\Proyecto 2\obj\Debug\Proyecto_2.CONFIGCON.resources

@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8464096B-4F2B-49D6-87C9-196892E27387}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Proyecto_2</RootNamespace>
+    <AssemblyName>Proyecto 2</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\..\..\Windows\assembly\GAC_MSIL\Microsoft.Office.Interop.Word\15.0.0.0__71e9bce111e9429c\Microsoft.Office.Interop.Word.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.10.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BDPROYECTO.cs" />
+    <Compile Include="BUSCAR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BUSCAR.Designer.cs">
+      <DependentUpon>BUSCAR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CONFIGCON.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONFIGCON.Designer.cs">
+      <DependentUpon>CONFIGCON.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CONFIGDIAS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONFIGDIAS.Designer.cs">
+      <DependentUpon>CONFIGDIAS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CONFIGESPECIALIZACION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONFIGESPECIALIZACION.Designer.cs">
+      <DependentUpon>CONFIGESPECIALIZACION.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CONFIGHORA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONFIGHORA.Designer.cs">
+      <DependentUpon>CONFIGHORA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="configmaestros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="configmaestros.Designer.cs">
+      <DependentUpon>configmaestros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CONFIGRUPOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONFIGRUPOS.Designer.cs">
+      <DependentUpon>CONFIGRUPOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CONFIGSALONES.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONFIGSALONES.Designer.cs">
+      <DependentUpon>CONFIGSALONES.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CONFIGSALONESESP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONFIGSALONESESP.Designer.cs">
+      <DependentUpon>CONFIGSALONESESP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CONFIGTURN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONFIGTURN.Designer.cs">
+      <DependentUpon>CONFIGTURN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CONFIGURACION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONFIGURACION.Designer.cs">
+      <DependentUpon>CONFIGURACION.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CONFIGURAR SEMESTRES.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONFIGURAR SEMESTRES.Designer.cs">
+      <DependentUpon>CONFIGURAR SEMESTRES.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CONFIGURARMATERIAS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONFIGURARMATERIAS.Designer.cs">
+      <DependentUpon>CONFIGURARMATERIAS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="INICIO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="INICIO.Designer.cs">
+      <DependentUpon>INICIO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LLENARGRUPOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LLENARGRUPOS.Designer.cs">
+      <DependentUpon>LLENARGRUPOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LOGIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOGIN.Designer.cs">
+      <DependentUpon>LOGIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SELECCIONMAESTRO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SELECCIONMAESTRO.Designer.cs">
+      <DependentUpon>SELECCIONMAESTRO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VENTANASELECCION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTANASELECCION.Designer.cs">
+      <DependentUpon>VENTANASELECCION.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="BUSCAR.resx">
+      <DependentUpon>BUSCAR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONFIGCON.resx">
+      <DependentUpon>CONFIGCON.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONFIGDIAS.resx">
+      <DependentUpon>CONFIGDIAS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONFIGESPECIALIZACION.resx">
+      <DependentUpon>CONFIGESPECIALIZACION.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONFIGHORA.resx">
+      <DependentUpon>CONFIGHORA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="configmaestros.resx">
+      <DependentUpon>configmaestros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONFIGRUPOS.resx">
+      <DependentUpon>CONFIGRUPOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONFIGSALONES.resx">
+      <DependentUpon>CONFIGSALONES.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONFIGSALONESESP.resx">
+      <DependentUpon>CONFIGSALONESESP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONFIGTURN.resx">
+      <DependentUpon>CONFIGTURN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONFIGURACION.resx">
+      <DependentUpon>CONFIGURACION.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONFIGURAR SEMESTRES.resx">
+      <DependentUpon>CONFIGURAR SEMESTRES.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONFIGURARMATERIAS.resx">
+      <DependentUpon>CONFIGURARMATERIAS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="INICIO.resx">
+      <DependentUpon>INICIO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LLENARGRUPOS.resx">
+      <DependentUpon>LLENARGRUPOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LOGIN.resx">
+      <DependentUpon>LOGIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SELECCIONMAESTRO.resx">
+      <DependentUpon>SELECCIONMAESTRO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTANASELECCION.resx">
+      <DependentUpon>VENTANASELECCION.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
